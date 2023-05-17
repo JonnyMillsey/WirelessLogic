@@ -1,0 +1,20 @@
+{
+  "name": "wirelesslogic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "http": "0.0.1-security",
+    "mocha": "^10.2.0",
+    "mockery": "^2.1.0"
+  }
+}
